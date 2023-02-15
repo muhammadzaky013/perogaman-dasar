@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676428115 source:c:\users\labrpl2_pc21\music\zaky c++\latihaninputoutput\main.cpp
+	<iostream>
+	<time.h>
+
